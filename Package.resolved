@@ -6,26 +6,26 @@
         "repositoryURL": "https://github.com/tadija/AEXML.git",
         "state": {
           "branch": null,
-          "revision": "09f27784d9e328670ef0a181c832cce497117131",
-          "version": "4.2.2"
+          "revision": "8623e73b193386909566a9ca20203e33a09af142",
+          "version": "4.5.0"
         }
       },
       {
-        "package": "CommandLine",
-        "repositoryURL": "https://github.com/silt-lang/CommandLine",
+        "package": "CommandLineKit",
+        "repositoryURL": "https://github.com/mpklu/CommandLineKit.git",
         "state": {
-          "branch": null,
-          "revision": "5bdfea60048a932091daa07b797938dce35e4cf0",
-          "version": "4.0.0"
+          "branch": "master",
+          "revision": "99511278c338eba2f066a364242647447d37639b",
+          "version": null
         }
       },
       {
         "package": "SwiftColorGenLibrary",
-        "repositoryURL": "https://github.com/fernandodelrio/SwiftColorGenLibrary.git",
+        "repositoryURL": "https://github.com/ernestsheridan/SwiftColorGenLibrary.git",
         "state": {
-          "branch": null,
-          "revision": "f70e8688c36c7605e8292c5d21676f5239ce856c",
-          "version": "0.6.1"
+          "branch": "master",
+          "revision": "30a7f2cbb31ac73c6df7cc04b126cbe6fb076f5b",
+          "version": null
         }
       }
     ]
