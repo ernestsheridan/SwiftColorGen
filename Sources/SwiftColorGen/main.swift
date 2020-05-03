@@ -38,7 +38,7 @@ func main() {
     cleanColors(args: args, assets: assets)
     let oldColors = assets
         .filter { $0.type == .original }
-        .map { $0.color ?? ColorData() }
+        .compactMap({ $0.color })
     let newColors = getNewColors(args: args)
     let allColors = newColors.union(oldColors)
     if !allColors.isEmpty {
